@@ -7,3 +7,4 @@ Just a repo to store some code.
 - Test-Driven Development
 - Functional Programming
 - Literate Programming
+- Clean Code
