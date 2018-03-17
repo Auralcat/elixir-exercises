@@ -1,5 +1,5 @@
 defmodule Desafio_01Tc do
-  @moduledoc = """
+  @moduledoc """
     Construa um jogo de texto, em que o jogador tenha que adivinhar a palavra
     elixir. Ao rodar o jogo, o programa deve mostrar algumas dicas como
     'Poção mágica', 'liquido encantado em frasco'.
