@@ -1,6 +1,5 @@
 # Desafio_01Tc
 
-
 ## Adivinhe a palavra simplificado
 
 Construa um jogo de texto, em que o jogador tenha que adivinhar a palavra

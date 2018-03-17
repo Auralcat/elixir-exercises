@@ -27,6 +27,9 @@ defmodule Desafio_01Tc.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    []
+    [
+      {:credo, "~> 0.9.0-rc1", only: [:dev, :test], runtime: false},
+      {:random, "~> 0.2.3"}
+    ]
   end
 end
